@@ -5,7 +5,7 @@
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: SQL,Python,Tableau, Azure Cloud & Microsoft Excel
-[![My Skills](https://skillicons.dev/icons?i=postgres,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,azure,py,vscode)](https://skillicons.dev)
 
 - 🔭 I’m currently working on this page. 
 

@@ -6,6 +6,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: SQL,Python,Tableau, Azure Cloud & Microsoft Excel
 [![My Skills](https://skillicons.dev/icons?i=postgres,azure,py,vscode)](https://skillicons.dev)
+https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
 
 - 🔭 I’m currently working on this page. 
 

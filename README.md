@@ -1,17 +1,15 @@
-## Hi there 👋
+### Hi there 👋, my name is Arun 
+#### I am Data Enthusiast 
+![I am Data Enthusiast ](https://media.licdn.com/dms/image/D5616AQEeJv5buc6-5g/profile-displaybackgroundimage-shrink_350_1400/0/1683720426772?e=1724284800&v=beta&t=_084Vy_IhVA0sQtOI2dTU7plCCyqrBwbrH2RZHCFOwc)
 
-<!--
-**rockingspq/rockingspq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Here are some ideas to get you started:
+Skills: SQL,Python,Tableau, Azure Cloud & Microsoft Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rockingspq)](https://github.com/anuraghazra/github-readme-stats)

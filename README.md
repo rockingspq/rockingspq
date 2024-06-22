@@ -1,17 +1,25 @@
-### Hi there 👋, my name is Arun 
-#### I am Data Enthusiast 
-![I am Data Enthusiast ](https://media.licdn.com/dms/image/D5616AQEeJv5buc6-5g/profile-displaybackgroundimage-shrink_350_1400/0/1683720426772?e=1724284800&v=beta&t=_084Vy_IhVA0sQtOI2dTU7plCCyqrBwbrH2RZHCFOwc)
+<h1 align="center">Hi 👋, I'm Arun</h1>
+<h3 align="center">A data enthusiast who has sales and marketing domain knowledge.</h3>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rockingspq&label=Profile%20views&color=0e75b6&style=flat" alt="rockingspq" /> </p>
 
-Skills: SQL,Python,Tableau, Azure Cloud & Microsoft Excel
-[![My Skills](https://skillicons.dev/icons?i=postgres,azure,py,vscode)](https://skillicons.dev)
-https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
+- 🌱 I’m currently learning **Tableau advanced**
 
-- 🔭 I’m currently working on this page. 
+- 💬 Ask me about **Sql**
 
+- 📫 How to reach me **arun.padayachi@icloud.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arunshanmugamprema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunshanmugamprema" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockingspq&show_icons=true&locale=en&layout=compact" alt="rockingspq" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rockingspq)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rockingspq&show_icons=true&locale=en" alt="rockingspq" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rockingspq&" alt="rockingspq" /></p>
+
